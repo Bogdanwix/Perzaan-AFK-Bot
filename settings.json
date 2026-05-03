@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 92591,
-    "version": "1.21.1"
+    "ip": "Wixi_Server.aternos.me",
+    "port": 57748,
+    "version": "1.21.11"
   },
   "position": {
     "enabled": true,
